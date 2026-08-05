@@ -50,6 +50,6 @@ El script alerta si detecta el uso de:
 
 1. **Clona este repositorio o descarga el script:**
    ```bash
-   git clone [https://github.com/srdazagit/AUR-check.git](https://github.com/srdazagit/AUR-check.git)
+   git clone https://github.com/srdazagit/AUR-check.git
    cd AUR-check
    
